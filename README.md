@@ -5,7 +5,7 @@ This script has two modes. Mode 1, or Normal Mode, pastes either a named locatio
 
 The quotes have been formatted for Markdown and is intended for use on Discord.
 
-##How do do it:
+## How do do it:
 
 1. Run the executable file.
 2. Find a text field where you want to write the location(Preferably Discord).
