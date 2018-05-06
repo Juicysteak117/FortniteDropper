@@ -14,4 +14,6 @@ The quotes have been formatted for Markdown and is intended for use on Discord.
 
 Mode switching is done by the combination WIN+CTRL+LSHIFT+D. This is a toggle and so it only needs to be done once to change between Normal Mode and Hard Mode. The hotkey was chosen so as to not disrupt any existing hotkeys in other programs.
 
-[Download Link](https://github.com/Juicysteak117/FortniteDropper/releases/download/2.0/FortniteDropper.exe)
+The list now updates based on [DropList.txt](https://github.com/Juicysteak117/FortniteDropper/blob/master/DropList.txt) and thus no longer needs to be redownloaded.
+
+[Download Link](https://github.com/Juicysteak117/FortniteDropper/releases/download/2.1/FortniteDropper.exe)
