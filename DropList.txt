@@ -1,7 +1,6 @@
 Junk Junction
 Haunted Hills
 Pleasant Park
-North Anarchy Acres (F-2)
 Wailing Woods
 Tomato Town
 North of Tomato Town (G-3)
@@ -31,8 +30,12 @@ North of Flush Factory (D-8)
 North of Pleasant Park (C-2)
 South Tilted Towers (D-6)
 South of Snobby Shores (A-6)
-South Anarchy Acres (F-3)
+Anarchy Acres
 East Loot Lake (E-4)
 West of Dusty Divot (F-5)
 West of Risky Reels (G-2)
 Risky Reels
+East of Retail Row (J-5/J-6)
+South-East of Retail Row (J-6/J-7)
+South of Snobby Shores (A-6)
+North-East of Snobby Shores (B-4/B-5)
