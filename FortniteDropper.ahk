@@ -31,4 +31,6 @@ if WAWDBtoggle {
     Send, _We're dropping at_ **(%WAWDBLetter%{-}%WAWDB%)**_, boys{!}_ {Enter}
     Sleep, 1000
 }
+Random, WAWDBNewSeed, 1, 2147483647
+Random, , %WAWDBNewSeed%
 return
