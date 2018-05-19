@@ -16,4 +16,4 @@ Mode switching is done by the combination WIN+CTRL+LSHIFT+D. This is a toggle an
 
 The list now updates based on [DropList.txt](https://github.com/Juicysteak117/FortniteDropper/blob/master/DropList.txt) and thus no longer needs to be redownloaded.
 
-[Download Link](https://github.com/Juicysteak117/FortniteDropper/releases/download/2.1/FortniteDropper.exe)
+[Download Link](https://github.com/Juicysteak117/FortniteDropper/releases/download/2.2/FortniteDropper.exe)
