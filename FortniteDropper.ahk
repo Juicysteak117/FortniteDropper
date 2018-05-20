@@ -34,3 +34,22 @@ if WAWDBtoggle {
 Random, WAWDBNewSeed, 1, 2147483647
 Random, , %WAWDBNewSeed%
 return
+
+^<+#S::
+WAWDBtoggle:=!WAWDBtoggle
+
+<+#S::
+if WAWDBtoggle {
+    Random, WAWDB, 1, % WAWDBList.MaxIndex()
+    MsgBox, 0, Where are you dropping?, % "You're dropping at " WAWDBList[WAWDB] "!"
+    Sleep, 1000
+} Else {
+    Random, WAWDBLetter, 65, 74
+    WAWDBLetter:= Chr(WAWDBLetter)
+    Random, WAWDB, 1, 10
+    MsgBox, 0, Where are you dropping?, You're dropping at (%WAWDBLetter%-%WAWDB%)!
+    Sleep, 1000
+}
+Random, WAWDBNewSeed, 1, 2147483647
+Random, , %WAWDBNewSeed%
+return
