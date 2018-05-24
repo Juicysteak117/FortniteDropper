@@ -4,8 +4,8 @@ Pleasant Park
 Wailing Woods
 Tomato Town
 North of Tomato Town (G-3)
-West Loot Lake (D-4)
-North Tilted Towers (D-5)
+Loot Lake
+Tilted Towers
 Snobby Shores
 Dusty Divot
 Lonely Lodge
@@ -28,10 +28,8 @@ North of Moisty Mire (I-7)
 North of Wailing Woods (I-2)
 North of Flush Factory (D-8)
 North of Pleasant Park (C-2)
-South Tilted Towers (D-6)
 South of Snobby Shores (A-6)
 Anarchy Acres
-East Loot Lake (E-4)
 West of Risky Reels (G-2)
 Risky Reels
 East of Retail Row (J-5/J-6)
