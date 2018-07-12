@@ -13,7 +13,6 @@ Retail Row
 Greasy Grove
 Shifty Shafts
 Salty Springs
-Moisty Mire
 Fatal Fields
 Flush Factory
 Lucky Landing
@@ -23,16 +22,17 @@ West of Tilted Towers (C-5)
 North of Retail Row (H-4/H-5)
 North-West of Fatal Fields (E-8/F-8)
 North-East of Flush Factory (E-9)
-North-West of Moisty Mire (H-8)
-North of Moisty Mire (I-7)
 North of Wailing Woods (I-2)
 North of Flush Factory (D-8)
-North of Pleasant Park (C-2)
 South of Snobby Shores (A-6)
-Anarchy Acres
+North-West of Greasy Grove (B-6)
+Paradise Palms
+Lazy Links
 West of Risky Reels (G-2)
 Risky Reels
 East of Retail Row (J-5/J-6)
 South-East of Retail Row (J-6/J-7)
 South of Snobby Shores (A-6)
 North-East of Snobby Shores (B-4/B-5)
+South-East of Fatal Fields (G-9)
+South of Paradise Palms (H-10)
