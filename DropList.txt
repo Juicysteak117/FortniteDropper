@@ -2,8 +2,8 @@ Junk Junction
 Haunted Hills
 Pleasant Park
 Wailing Woods
-Tomato Town
-North of Tomato Town (G-3)
+Tomato Temple
+North of Tomato Temple (G-3)
 Loot Lake
 Tilted Towers
 Snobby Shores
@@ -17,7 +17,7 @@ Fatal Fields
 Flush Factory
 Lucky Landing
 Risky Reels
-West of Anarchy Acres (D-2)
+West of Lazy Links (D-2)
 West of Tilted Towers (C-5)
 North of Retail Row (H-4/H-5)
 North-West of Fatal Fields (E-8/F-8)
